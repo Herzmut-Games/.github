@@ -1,5 +1,5 @@
 <p align="center">
-<img src="homelogo-400.png">
+<img src="profile/homelogo-400.png">
 
 Herzmut Games is a fictional incubator which organizes different events. We are doing game jams, making a foosball table smart or playing board games.
 
